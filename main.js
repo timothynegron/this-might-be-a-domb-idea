@@ -1,4 +1,4 @@
-document.getElementsByTagName("p")[0].style.color = "blue";
+document.getElementsByTagName("p")[0].style.color = "lightblue";
 document.getElementsByTagName("h1")[0].style.fontSize = "50pt";
 document.getElementsByTagName("p")[0].textContent = "Lorem ipsum dolor amet viral meh selfies drinking vinegar, intelligentsia poke flannel twee paleo enamel pin cray. Banjo celiac crucifix, kickstarter la croix air plant jianbing hashtag vinyl hell of man bun selvage schlitz banh mi. Tacos hella raclette quinoa blog, williamsburg adaptogen tbh. Hexagon af stumptown lumbersexual synth gentrify quinoa enamel pin celiac master cleanse. Truffaut typewriter shoreditch, semiotics iceland mixtape taxidermy umami distillery austin hashtag. Food truck synth wayfarers, street art banh mi actually authentic. Bitters tousled tattooed vegan neutra pug hell of fixie chia unicorn letterpress.";
 document.getElementById("item-13").style.opacity = "0.5";
